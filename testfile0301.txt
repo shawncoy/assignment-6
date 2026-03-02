@@ -1,0 +1,1 @@
+This is assignment number 6 for Intro to Scripting Languages. I am enjoying learning Python. I am constantly getting better at understanding how to create code in Python, as well as using VS Code and Copilot to complete assignments.
